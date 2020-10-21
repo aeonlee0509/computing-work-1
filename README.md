@@ -1,5 +1,5 @@
 ~~ hello ~~ 
-Ms Lim,
+Ms Lim,Mr Lee, Wu lao shi
 I'm happy that you're my teacher;
 I enjoy each lesson you teach.
 As my role model you inspire me
@@ -14,3 +14,4 @@ You help me fulfill my potential;
 I'm thankful for all that you've done.
 I admire you each day, and I just want to say,
 As a teacher, you're number one!
+
